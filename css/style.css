@@ -1,0 +1,129 @@
+.mainWrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 610px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 1px 0px 0px 1px #e2e6ee;
+    border-radius: 25px;
+    /* border: solid rgb(160, 165, 235); */
+}
+
+.mainContainer{
+    background-color: rgb(93, 62, 251);
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    width: 340px;
+}
+
+.secondcontainer{
+    border: 1px solid rgb(73,37,207);
+    border-radius: 120px;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    background-color: rgb(73,37,207);
+    box-shadow: 0px 0px 2px 0px;
+}
+
+.secondcontainer h1{
+    font-size: 50px;
+}
+
+.secondcontainer span{
+    font-size: 10px;
+    
+}
+
+.innsecContainer{
+    width: 50px;
+    margin: auto;
+    margin-top: 50px;
+    line-height: 20px;
+    
+}
+
+.Memory, .Visual, .reaction, .Verbal{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.reaction{
+    color: rgb(228, 121, 133);
+}
+#style{
+    color: rgb(50,50, 50);
+    width: 15vh;
+}
+#style2{
+    color: rgb(50,50, 50);
+    width: 15vh;
+}
+#style3{
+    color: rgb(50,50, 50);
+    width: 15vh;
+}
+#style4{
+    color: rgb(50,50, 50);
+    width: 15vh;
+}
+.mainContainer2{
+    width: 50%;
+    margin-left: 20px;
+}
+.fafa{
+    display: flex;
+    align-items: center;
+}
+.fafa i{
+    width: 20px;
+}
+.fafa2{
+    display: flex;
+    align-items: center;
+}
+.fafa2 i{
+    width: 23px;
+}
+.fafa3 i{
+    width: 25px;
+}
+.fafa3{
+    display: flex;
+    align-items: center;
+}
+.fafa4{
+    display: flex;
+    align-items: center;
+}
+.fafa4 i{
+    width: 25px;
+}
+
+.Memory{
+    color: rgb(246, 203, 133);
+}
+.Verbal{
+    color: rgb(121, 227, 204);
+}
+.Visual{
+    color: rgb(79, 88, 198);
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 40px;
+}
+.btn button{
+    width: 200px;
+    background-color: rgb(52,57,84);
+    border: none;
+    border-radius: 40px;
+    color: white;
+}
+.fourthcontainer h4{
+    color: rgb(209, 200, 200);
+}
